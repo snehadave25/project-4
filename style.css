@@ -221,3 +221,8 @@ footer{
 .center{
     text-align: center;
 }
+
+.map{
+    margin-left: 10%;
+    padding: 5%;
+}
